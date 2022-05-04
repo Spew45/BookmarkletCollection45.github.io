@@ -1,0 +1,1 @@
+javascript:(function(){var title = prompt("What Should The Title Be?"); document.title=title})();
